@@ -8,3 +8,7 @@ En la carpeta "Projects" se encuentra los siguientes proyectos y sus respectivos
   2. "The GitHub History of the Scala Language"
 
       archivos: "pull_files.csv", "pulls.csv", "pulls_2011-2013.csv", "pulls_2014-2018.csv" 
+  
+  3. "The Android App Market on Google Play"
+  
+      archivos: "apps.csv"
